@@ -29,3 +29,4 @@
 3. [TCP 三握四挥 重传机制 滑动窗口 流量控制 拥塞控制](https://blog.csdn.net/cjw0001/article/details/118273577)
 4. [清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn)
 5. [多链路传输技术在火山引擎 RTC 的探索和实践](https://mp.weixin.qq.com/s/ne7H0NOBETnD_MCQ3VU-wQ)
+6. [（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575)

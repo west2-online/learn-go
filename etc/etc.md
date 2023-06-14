@@ -23,6 +23,10 @@
 4. [大规模分布式链路分析计算在字节跳动的实践](https://mp.weixin.qq.com/s/A1iWAqvp8GhjouKg9-LnuA)
 5. [Containers From Scratch • Liz Rice • GOTO 2018](https://youtu.be/8fi7uSYlOdc)
 
+## 大数据
+
+1. [字节跳动大数据容器化构建与落地实践](https://mp.weixin.qq.com/s/aU8Mjmiz7eJRBE1owzileA)
+
 ## 网络环境
 
 1. [我有特别的DNS配置技巧](https://blog.skk.moe/post/i-have-my-unique-dns-setup/#Zheng-Que-Pei-Zhi-SmartDNS)

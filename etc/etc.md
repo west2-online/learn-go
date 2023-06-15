@@ -15,13 +15,14 @@
 
 1. [美团外卖搜索基于Elasticsearch的优化实践](https://zhuanlan.zhihu.com/p/584648660)
 
-## 云原生
+## 分布式与云原生
 
 1. [一文了解 - 云原生大数据知识地图](https://mp.weixin.qq.com/s/vua2g0_t1Y8KW4cNHSQdNw)
 2. [全链路追踪与Jaeger入门](https://jckling.github.io/2021/04/02/Jaeger/%E5%85%A8%E9%93%BE%E8%B7%AF%E8%BF%BD%E8%B8%AA%E4%B8%8E%20Jaeger%20%E5%85%A5%E9%97%A8/)
 3. [Kitex Proxyless之流量路由：配合 Istio 与 OpenTelemetry 实现全链路泳道](https://mp.weixin.qq.com/s/SAn-H5p53IfvSy_Y3Mcz_Q)
 4. [大规模分布式链路分析计算在字节跳动的实践](https://mp.weixin.qq.com/s/A1iWAqvp8GhjouKg9-LnuA)
 5. [Containers From Scratch • Liz Rice • GOTO 2018](https://youtu.be/8fi7uSYlOdc)
+6. [分布式键值存储 etcd 原理与实现 · Analyze](https://wingsxdu.com/posts/database/etcd/)
 
 ## 大数据
 

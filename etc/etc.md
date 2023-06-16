@@ -6,6 +6,7 @@
 2. [Go sync.Once：简约而不简单的并发利器](https://juejin.cn/post/7220797267716358199)
 3. [高效的 Go 编程 Effective Go（2020版）](https://learnku.com/docs/effective-go/2020)
 4. [「一劳永逸」一张脑图带你掌握Git命令](https://juejin.cn/post/6869519303864123399)
+5. [https://juejin.cn/post/7245184987531608124](https://juejin.cn/post/7245184987531608124)
 
 ## 偏底层
 1. [Go汇编详解](https://mp.weixin.qq.com/s/yPkAn3pRO5j9LKJGRxmaBg)

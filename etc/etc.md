@@ -26,6 +26,7 @@
 5. [Containers From Scratch • Liz Rice • GOTO 2018](https://youtu.be/8fi7uSYlOdc)
 6. [分布式键值存储 etcd 原理与实现 · Analyze](https://wingsxdu.com/posts/database/etcd/)
 7. [腾讯微服务平台 TSF 的敏捷开发流程](https://juejin.cn/post/6940993650432163877)
+8. [Kubernetes 中文指南/云原生应用架构实战手册](https://jimmysong.io/kubernetes-handbook/)
 
 ## 大数据
 

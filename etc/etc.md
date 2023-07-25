@@ -27,6 +27,7 @@
 6. [分布式键值存储 etcd 原理与实现 · Analyze](https://wingsxdu.com/posts/database/etcd/)
 7. [腾讯微服务平台 TSF 的敏捷开发流程](https://juejin.cn/post/6940993650432163877)
 8. [Kubernetes 中文指南/云原生应用架构实战手册](https://jimmysong.io/kubernetes-handbook/)
+9. [消息队列怎么能通俗点解释？ - 腾讯技术工程的回答 - 知乎](https://www.zhihu.com/question/321144623/answer/3128270015)
 
 ## 大数据
 

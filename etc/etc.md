@@ -9,6 +9,8 @@
 5. [https://juejin.cn/post/7245184987531608124](https://juejin.cn/post/7245184987531608124)
 6. [百度前端团队 - Git 工作流实践方案探索](https://juejin.cn/post/7050012586296737805)
 7. [设计模式 Golang实现－《研磨设计模式》读书笔记](https://github.com/senghoo/golang-design-pattern)
+8. [如何写好单元测试？](https://zhuanlan.zhihu.com/p/387540827)
+9. [为go程序编写测试用例](https://lyc10031.github.io/2019/08/23/go-test.html)
 
 ## 偏底层
 1. [Go汇编详解](https://mp.weixin.qq.com/s/yPkAn3pRO5j9LKJGRxmaBg)
@@ -29,6 +31,7 @@
 7. [腾讯微服务平台 TSF 的敏捷开发流程](https://juejin.cn/post/6940993650432163877)
 8. [Kubernetes 中文指南/云原生应用架构实战手册](https://jimmysong.io/kubernetes-handbook/)
 9. [消息队列怎么能通俗点解释？ - 腾讯技术工程的回答 - 知乎](https://www.zhihu.com/question/321144623/answer/3128270015)
+10. [详解微服务之间3大通信方式：网关 API、RPC 和 SideCar](https://zhuanlan.zhihu.com/p/452558073)
 
 ## 大数据
 

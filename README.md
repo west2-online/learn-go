@@ -14,6 +14,10 @@
 
 从功利的角度出发, 如果你想进west2-online工作室, 你需要在完成基础内容的基础上适当的完成**一定量的Bouns内容**, 我们的答辩会考察你一定的知识储备
 
+## 问题解答
+
+我们罗列了常见的问题解答位于这个仓库的[Discussions](https://github.com/west2-online/learn-go/discussions), 你也可以直接在这个页面的上方找到这个按钮进入
+
 ## 概览
 
 ### 基础

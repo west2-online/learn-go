@@ -45,3 +45,10 @@
 4. [清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn)
 5. [多链路传输技术在火山引擎 RTC 的探索和实践](https://mp.weixin.qq.com/s/ne7H0NOBETnD_MCQ3VU-wQ)
 6. [（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575)
+
+## 架构
+
+这部分可以当小说看
+
+1. [引入 CloudWeGo 后飞书管理后台平台化改造的演进史](https://zhuanlan.zhihu.com/p/544472909)
+2. [深度 | 字节跳动微服务架构体系演进](https://zhuanlan.zhihu.com/p/382833278)

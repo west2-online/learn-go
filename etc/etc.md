@@ -11,6 +11,8 @@
 7. [设计模式 Golang实现－《研磨设计模式》读书笔记](https://github.com/senghoo/golang-design-pattern)
 8. [如何写好单元测试？](https://zhuanlan.zhihu.com/p/387540827)
 9. [为go程序编写测试用例](https://lyc10031.github.io/2019/08/23/go-test.html)
+10. [Go 每日一库之 testing](https://darjun.github.io/2021/08/03/godailylib/testing/)
+11. [GoMock快速上手教程](https://zhuanlan.zhihu.com/p/410445621)
 
 ## 偏底层
 1. [Go汇编详解](https://mp.weixin.qq.com/s/yPkAn3pRO5j9LKJGRxmaBg)
